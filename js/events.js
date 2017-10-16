@@ -9,6 +9,9 @@ function frameIt(){
     $(this).addClass('tasty')
   })
 }
+function submitIt(){
+  
+}
 $(document).ready(function(){
 
 // call functions here
